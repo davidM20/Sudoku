@@ -5,4 +5,4 @@ Además, se ha creado una interfaz gráfica que ha sido cuidadosamente diseñada
 En definitiva, este proyecto representa un juego de Sudoku altamente interactivo, con una interfaz de usuario amigable y una experiencia de juego mejorada gracias a la integración del cursor del mouse con la terminal.
 
 
-!(f1.png)
+
